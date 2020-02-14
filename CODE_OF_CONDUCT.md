@@ -1,4 +1,4 @@
-# Contributor Covenant Code of Conduct for the [`project_name`] project
+# Contributor Covenant Code of Conduct for the Templates DotNetCore Example project
 
 ([Français](#Code-de-conduite-pour-le-projet-nom-du-projet))
 
@@ -45,7 +45,7 @@ Representation of a project may be further defined and clarified by project main
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at [`project email`].
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at shaun.laughland@hrsdc-rhdcc.gc.ca.
 All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances.
 The project team is obligated to maintain confidentiality with regard to the reporter of an incident.
 Further details of specific enforcement policies may be posted separately.
@@ -63,7 +63,7 @@ This Code of Conduct is also inspired by GDS' `alphagov` [Code of conduct](https
 
 ---
 <!--markdownlint-disable MD025-->
-# Code de conduite pour le projet [`nom du projet`]
+# Code de conduite pour le projet Templates DotNetCore Example
 <!--markdownlint-enable MD025-->
 
 ([English](#Contributor-Covenant-Code-of-Conduct-for-the-projectname-project))
@@ -106,7 +106,7 @@ La représentation d'un projet peut être mieux défini et clarifié par les res
 
 ## Application des règles
 
-Les cas de comportement abusif, de harcèlement ou d'autres comportements inacceptables peuvent être rapportés en communiquant avec l'équipe de projet à l'adresse suivante :[`courriel`].
+Les cas de comportement abusif, de harcèlement ou d'autres comportements inacceptables peuvent être rapportés en communiquant avec l'équipe de projet à l'adresse suivante :shaun.laughland@hrsdc-rhdcc.gc.ca.
 Toutes les plaintes feront l'objet d'un examen et d'une enquête et donneront lieu à une réponse qui est jugée nécessaire et appropriée dans les circonstances.
 L'équipe de projet est dans l'obligation de respecter la confidentialité à l'égard du déclarant d'un incident.
 De plus amples détails sur les politiques d'application spécifiques peuvent être affichés séparément.
