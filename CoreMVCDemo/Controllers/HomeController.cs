@@ -11,7 +11,7 @@ using GoC.WebTemplate.Components.Core.Services;
 
 namespace CoreMVCDemo.Controllers
 {
-    public class HomeController : WebTemplateBaseController
+    public class HomeController : BaseController
     {
         private readonly ILogger<HomeController> _logger;
 
@@ -23,6 +23,11 @@ namespace CoreMVCDemo.Controllers
 
         public IActionResult Index()
         {
+            WebTemplateModel.Breadcrumbs.Add(
+                new GoC.WebTemplate.Components.Entities.Breadcrumb
+                {
+                    Title = "Welcome"
+                });
             return View();
         }
 
